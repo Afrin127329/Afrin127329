@@ -11,7 +11,8 @@ I'm Afrin, a Full Stack Web Application Developer from Bangladesh. <br> I Spend 
   
   
    <a href="https://twitter.com/AfrinNahar10"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-</p>
+  <a href="https://www.linkedin.com/in/afrin-nahar-1b177a290/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+</p> 
 <br>
   
 <h3> 🔛 I am currently... </h3>
@@ -64,5 +65,13 @@ I'm Afrin, a Full Stack Web Application Developer from Bangladesh. <br> I Spend 
  <br>
 
 _P.s: Feel free to open an issue if you find any with my projects......
+
+
+<a href="https://github.com/Afrin127329/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afrin127329&layout=compact&theme=merko" height='190'/>
+</a>
+<a href="https://github.com/Afrin127329/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Afrin127329&show_icons=true&theme=merko" height='190'/>
+</a>
 
 </div>
