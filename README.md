@@ -11,7 +11,7 @@ I'm Afrin, a Full Stack Web Application Developer from Bangladesh. <br> I Spend 
   
   
    <a href="https://twitter.com/AfrinNahar10"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-  <a href="https://www.linkedin.com/in/afrin-nahar-1b177a290/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
 </p> 
 <br>
   
