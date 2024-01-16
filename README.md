@@ -23,6 +23,8 @@ I'm Afrin, a Full Stack Web Application Developer from Bangladesh. <br> I Spend 
 ⚡&emsp;Fun fact: I am literally obsessed with coding and have intense interest in AI
 <br>
 
+[![](https://visitcount.itsvg.in/api?id=Afrin127329&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 <h3> 🛬 Some technologies I use: </h3>
 
 * * *
