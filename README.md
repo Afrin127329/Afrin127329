@@ -3,7 +3,7 @@
 <div style="text-align:center">
 <h3>Hi, Welcome to my corner on the hub </h3> 
 
-I'm Afrin, a Full Stack Web Application Developer from Bangladesh. <br> I Spend most of time coding outstanding projects and exploring latest technologies.
+I'm Afrin, a Full Stack Web Application Developer from Bangladesh. <br> I Spend most of time coding outstanding projects and exploring latest technologies and Research on AI and my own Start up.
 
 <p align="center">
   
@@ -20,7 +20,7 @@ I'm Afrin, a Full Stack Web Application Developer from Bangladesh. <br> I Spend 
  📖 learning about maximizing the value of product by combining business requirements, <br> technology and software design knowledge <br> 
 :hearts:&emsp;I enjoy programming and making unique things <br/>
 #### Reach me at: :email:&emsp;afrinnahar1999@gmail.com<br/>
-⚡&emsp;Fun fact: I am literally obsessed with coding and have intense interest in AI
+⚡&emsp;Fun fact: I am literally Crazy about Robotics, AI & Space 
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=Afrin127329&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
