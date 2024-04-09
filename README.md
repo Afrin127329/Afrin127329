@@ -7,19 +7,16 @@ I'm Afrin, a Full Stack Web Application Developer from Bangladesh. <br> I Spend 
 
 <p align="center">
   
-:coffee:&emsp;Connect with me! <br/>
-  
-  
-   <a href="https://twitter.com/AfrinNahar10"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+#### :coffee:&emsp;Connect with me! <br/><br/>
 
+  
+   <a href="https://twitter.com/AfrinNahar10"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.x.com&style=social"/> </a>
 </p> 
 <br>
-  
 <h3> 🔛 I am currently... </h3>
 
  📖 learning about maximizing the value of product by combining business requirements, <br> technology and software design knowledge <br> 
 :hearts:&emsp;I enjoy programming and making unique things <br/>
-#### Reach me at: :email:&emsp;afrinnahar1999@gmail.com<br/>
 ⚡&emsp;Fun fact: I am literally Crazy about Robotics, AI & Space 
 <br>
 
