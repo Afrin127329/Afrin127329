@@ -3,7 +3,7 @@
 <div style="text-align:center">
 <h3>Hi, Welcome to my corner on the hub </h3> 
 
-I'm Afrin, Selft taught Software Developer with 1+ years of work experience. <br> I Spend most of my time coding challenging projects & exploring and researching latest technologies. I am also planning to start my own Start up soon😉.
+I'm Afrin, Selft taught Software Developer with 1+ years of work experience. <br> I Spend most of my time coding challenging projects & exploring and researching latest technologies. I am also planning to start my own Start up soon😉 and on the side, looking for a better opportunity.
 
 <p align="center">
   
