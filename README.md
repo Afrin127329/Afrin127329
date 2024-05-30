@@ -3,7 +3,7 @@
 <div style="text-align:center">
 <h3>Hi, Welcome to my corner on the hub </h3> 
 
-I'm Afrin, Selft taught Software Developer with 1+ years of work experience. <br> I Spend most of my time coding challenging projects & exploring and researching latest technologies. I am also planning to start my own Start up soon😉 and on the side, looking for a better opportunity.
+I'm Afrin, Selt taught Software Developer with 1+ years of work experience. <br> I Spend most of my time coding challenging projects & exploring and researching latest technologies. I am also planning to start my own Start up soon😉 and on the side, looking for a better opportunity.
 
 <p align="center">
   
@@ -15,8 +15,8 @@ I'm Afrin, Selft taught Software Developer with 1+ years of work experience. <br
 <br>
 <h3> 🔛 I am currently... </h3>
 
- 📖 learning and coding SAAS applications with PHP(Laravel), Vue.js, working on freelance projects on Upwork in my free time & trying to learn Open Source Contributions, <br> Aiming to be a part of Open source communities <br> 
-:hearts:&emsp;I really enjoy programming and solving challenging problems <br/>
+ 📖 learning and coding a Live stream SAAS based app with raw WebRTC, socket.io, React and Node.js, recently finished Level app with Laravel(PHP) and React, also trying to learn Open Source Contributions, <br> Aiming to be a part of Open source communities <br> 
+:hearts:&emsp;I love programming and solving challenging problems <br/>
 ⚡&emsp;Fun fact: I am literally Crazy about Robotics, AI & Space. My Dream Title: Rocket Scientist 🚀
 <br>
 
@@ -38,8 +38,11 @@ I'm Afrin, Selft taught Software Developer with 1+ years of work experience. <br
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-  [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+ [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
