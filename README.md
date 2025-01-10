@@ -3,42 +3,40 @@
 <div style="text-align:center">
 <h3>Hi, Welcome to my corner on the hub </h3> 
 
-I'm Afrin, Selt taught Software Developer with 1+ years of work experience. <br> I Spend most of my time coding challenging projects & exploring and researching latest technologies. I am also planning to start my own Start up soon😉 and on the side, looking for a better opportunity.
+I'm Afrin, Selt taught Software Developer with 1.5+ years of work experience. <br> I Spend most of my time coding challenging projects & exploring and researching latest technologies. <br>Currently looking for a Remote opportunity matching my skillset😊.
 
 <p align="center">
   
-#### :coffee:&emsp;Connect with me! <br/><br/>
-
-  
-   <a href="https://twitter.com/AfrinNahar10"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.x.com&style=social"/> </a>
+#### :coffee:&emsp;Connect with me! <br>
+<a href="https://twitter.com/AfrinNahar10" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.x.com&style=social"/> </a>
 </p> 
 <br>
 <h3> 🔛 I am currently... </h3>
 
- 📖 learning and coding a Live stream SAAS based app with raw WebRTC, socket.io, React and Node.js, recently finished Level app with Laravel(PHP) and React, also trying to learn Open Source Contributions, <br> Aiming to be a part of Open source communities <br> 
-:hearts:&emsp;I love programming and solving challenging problems <br/>
-⚡&emsp;Fun fact: I am literally Crazy about Robotics, AI & Space. My Dream Title: Rocket Scientist 🚀
+ 📖 Learning how to contribute to Open Source to upskill myself, recently finished a CRM freelance Application with Metronic v9, previously worked on a Live stream SAAS based app with raw WebRTC, socket.io, React and Node.js & a Level app with Laravel(PHP) and React.
+ <br> Aiming to be a part of Open source communities ✌.<br> 
+:hearts:&emsp;I love programming and solving real world challenging problems. <br/>
+⚡&emsp;Fun fact: I am literally Crazy about Robotics, AI & Space. My Dream Title: Software Engineer | Rocket Scientist 🚀
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=Afrin127329&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Afrin127329&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in) -->
+![](https://komarev.com/ghpvc/?username=Afrin127329&style=flat-square&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
 
 <h3> 🛬 Some technologies I use: </h3>
 
 * * *
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![MaterialUi](https://img.shields.io/badge/Material-UI-3776AB?style=for-the-badge&logo=material-ui&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MaterialUi](https://img.shields.io/badge/Material-UI-3776AB?style=for-the-badge&logo=material-ui&logoColor=white)
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nextjs](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&logo=nextjs&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
- [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
