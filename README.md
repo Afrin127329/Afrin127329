@@ -8,7 +8,7 @@ I'm Afrin, Selt taught Software Developer with 1.5+ years of work experience. <b
 <p align="center">
   
 #### :coffee:&emsp;Connect with me! <br>
-<a href="https://twitter.com/AfrinNahar10" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.x.com&style=social"/> </a>
+<a href="https://twitter.com/afrinxnahar" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.x.com&style=social"/> </a>
 </p> 
 <br>
 <h3> 🔛 I am currently... </h3>
@@ -61,7 +61,7 @@ I'm Afrin, Selt taught Software Developer with 1.5+ years of work experience. <b
 
 <br>
 
-👐 Thank you for stopping by. Say [hello](https://twitter.com/AfrinNahar10)
+👐 Thank you for stopping by. Say [hello](https://twitter.com/afrinxnahar)
  
  <br>
 
