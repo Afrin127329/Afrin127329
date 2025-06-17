@@ -19,8 +19,8 @@ I'm Afrin, Selt taught Software Developer with 1.5+ years of work experience. <b
 ⚡&emsp;Fun fact: I am literally Crazy about Robotics, AI & Space. My Dream Title: Software Engineer | Rocket Scientist 🚀
 <br>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=Afrin127329&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in) -->
-![](https://komarev.com/ghpvc/?username=Afrin127329&style=flat-square&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
+<!-- [![](https://visitcount.itsvg.in/api?id=afrinxnahar&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in) -->
+![](https://komarev.com/ghpvc/?username=afrinxnahar&style=flat-square&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
 
 <h3> 🛬 Some technologies I use: </h3>
 
@@ -68,11 +68,11 @@ I'm Afrin, Selt taught Software Developer with 1.5+ years of work experience. <b
 _P.s: Feel free to open an issue if you find any with my projects......
 
 
-<a href="https://github.com/Afrin127329/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afrin127329&layout=compact&theme=merko" height='190'/>
+<a href="https://github.com/afrinxnahar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrinxnahar&layout=compact&theme=merko" height='190'/>
 </a>
-<a href="https://github.com/Afrin127329/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Afrin127329&show_icons=true&theme=merko" height='190'/>
+<a href="https://github.com/afrinxnahar/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinxnahar&show_icons=true&theme=merko" height='190'/>
 </a>
 
 </div>
