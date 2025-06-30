@@ -1,67 +1,77 @@
-<div align="center">
+<div align="start">
 
-<div style="text-align:center">
+<div style="text-align:start">
 <h3>Hi, Welcome to my corner on the hub </h3> 
 
-I'm Afrin, Selt taught Software Developer with 1.5+ years of work experience. <br> I Spend most of my time coding challenging projects & exploring and researching latest technologies. <br>Currently looking for a Remote opportunity matching my skillset😊.
+I'm Afrin, selt taught Developer with 2.5+ years of work experience. <br> I spend most of my time figuring out what real world problem I can solve & exploring and researching latest technologies. <br>Currently building Script AI and exploring better Job opportunities to upgrade my skillset.
 
-<p align="center">
+<p align="start">
   
 #### :coffee:&emsp;Connect with me! <br>
 <a href="https://twitter.com/afrinxnahar" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.x.com&style=social"/> </a>
+<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue"/></a>
 </p> 
-<br>
+
 <h3> 🔛 I am currently... </h3>
 
- 📖 Learning how to contribute to Open Source to upskill myself, recently finished a CRM freelance Application with Metronic v9, previously worked on a Live stream SAAS based app with raw WebRTC, socket.io, React and Node.js & a Level app with Laravel(PHP) and React.
- <br> Aiming to be a part of Open source communities ✌.<br> 
-:hearts:&emsp;I love programming and solving real world challenging problems. <br/>
-⚡&emsp;Fun fact: I am literally Crazy about Robotics, AI & Space. My Dream Title: Software Engineer | Rocket Scientist 🚀
+ 📖 Building Script AI which is a personalized AI content assistant for Youtube UGC content creators. 👉 [Learn more here](https://v0-script-ai-app.vercel.app/) <br>
+ Learning and researching on AI technologies, how LLM works, how can I build something with AI that solves real world problems. Previously worked on more than 50+ projects including job and freelance projects, some of them were AI wrapper applications. 
+ <br> Current Goal: Aiming to provide real values to the World ✌.<br> 
+:hearts:&emsp;My Dream Title: Software Engineer | Entreprenuer | Scientist <br/>
+⚡&emsp;Fun fact: I am literally Crazy about Robotics, AI & Space. 
 <br>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=afrinxnahar&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in) -->
 ![](https://komarev.com/ghpvc/?username=afrinxnahar&style=flat-square&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
 
-<h3> 🛬 Some technologies I use: </h3>
+## 🛬 Technologies I Use
+
+**Frontend**:  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white)  
+
+**Backend**:  
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+
+**Database**:  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
+
+**DevOps**:  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white) ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logoColor=white)
+
+<h3> Some AI tools I use </h3>
 
 * * *
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MaterialUi](https://img.shields.io/badge/Material-UI-3776AB?style=for-the-badge&logo=material-ui&logoColor=white)
-[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nextjs](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&logo=nextjs&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+| Category       | Tool                                                                 |
+|----------------|----------------------------------------------------------------------|
+| Coding         | ![Grok](https://img.shields.io/badge/Grok-1e3a8a?style=for-the-badge&logo=circuit-board&logoColor=white) |
+| Editor         | ![Cursor](https://img.shields.io/badge/Cursor-7c4dff?style=for-the-badge&logo=code&logoColor=white) |
+| General work   | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) |
+| Frontend UI    | ![v0.dev](https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| Sometimes   | ![Claude](https://img.shields.io/badge/Claude-f97316?style=for-the-badge&logo=brain&logoColor=white) |
 
 <br>
 
-<h3> 🐳 What else? Here are some cool tools I use </h3>
+## 🐳 What else? Here are some cool tools I use
 
 * * *
 
-![Netlify](https://img.shields.io/badge/-netlify-red?style=for-the-badge&logo=netlify&logoColor=white)
-![Jira](https://img.shields.io/badge/-jira-blue?style=for-the-badge&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/-slack-white?style=for-the-badge&logo=slack&logoColor=white)
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <br>
 
-👐 Thank you for stopping by. Say [hello](https://twitter.com/afrinxnahar)
+
+
+
+👐 Thank you for stopping by. Say [hello](https://x.com/afrinxnahar)
  
  <br>
 
