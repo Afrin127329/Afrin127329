@@ -14,10 +14,10 @@ I'm Afrin, selt taught Developer with 2.5+ years of work experience. <br> I spen
 
 <h3> 🔛 I am currently... </h3>
 
- 📖 Building Script AI which is a personalized AI content assistant for Youtube UGC content creators. 👉 [Learn more here](https://v0-script-ai-app.vercel.app/) <br>
+ 📖 Building Script AI which is a personalized AI content assistant for Youtube UGC content creators. 👉 [Learn more here](https://tryscriptai.com/) <br>
  Learning and researching on AI technologies, how LLM works, how can I build something with AI that solves real world problems. Previously worked on more than 50+ projects including job and freelance projects, some of them were AI wrapper applications. 
  <br> Current Goal: Aiming to provide real values to the World ✌.<br> 
-:hearts:&emsp;My Dream Title: Software Engineer | Entreprenuer | Scientist <br/>
+:hearts:&emsp;My Dream Title: Software Engineer | Entreprenuer | Scientist | Astronut<br/>
 ⚡&emsp;Fun fact: I am literally Crazy about Robotics, AI & Space. 
 <br>
 
