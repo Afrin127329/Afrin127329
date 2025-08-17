@@ -5,13 +5,6 @@
 
 I'm Afrin, selt taught Developer with 2.5+ years of work experience. <br> I spend most of my time figuring out what real world problem I can solve & exploring and researching latest technologies. <br>Currently building Script AI and exploring better Job opportunities to upgrade my skillset.
 
-<p align="start">
-  
-#### :coffee:&emsp;Connect with me! <br>
-<a href="https://twitter.com/afrinxnahar" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.x.com&style=social"/> </a>
-<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue"/></a>
-</p> 
-
 <h3> 🔛 I am currently... </h3>
 
  📖 Building Script AI which is a personalized AI content assistant for Youtube UGC content creators. 👉 [Learn more here](https://tryscriptai.com/) <br>
@@ -67,13 +60,6 @@ I'm Afrin, selt taught Developer with 2.5+ years of work experience. <br> I spen
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <br>
-
-
-
-
-👐 Thank you for stopping by. Say [hello](https://x.com/afrinxnahar)
- 
- <br>
 
 _P.s: Feel free to open an issue if you find any with my projects......
 
